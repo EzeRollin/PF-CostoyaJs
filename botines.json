@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "modelo": "Nike Mercurial Vapor II",
+        "precio": 25000
+    },
+    {
+        "id": "2",
+        "modelo": "Adidas Predator Pulse",
+        "precio": 18000
+    },
+    {
+        "id": "3",
+        "modelo": "Umbro Speciali",
+        "precio": 20000
+    },
+    {
+        "id": "4",
+        "modelo": "Nike Tiempo Legend",
+        "precio": 30000
+    },
+    {
+        "id": "5",
+        "modelo": "Adidas F50",
+        "precio": 40000
+    },
+    {
+        "id": "6",
+        "modelo": "Adidas Predator Mania",
+        "precio": 50000
+    },
+    {
+        "id": "7",
+        "modelo": "Nike Mercurial Vapor",
+        "precio": 20000
+    }
+]
